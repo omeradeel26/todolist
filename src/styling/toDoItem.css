@@ -1,0 +1,15 @@
+.container{
+    max-width: 600px;
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 3px;
+}
+
+*{
+    font-family: "Calibri";
+    font-size: 25px;
+}
